@@ -8,3 +8,4 @@ fundus
 scrapy
 feedparser
 scrapy-playwright
+torch

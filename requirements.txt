@@ -8,5 +8,6 @@ fundus
 scrapy
 feedparser
 scrapy-playwright
-torch==2.3.0
+torch~=2.3.0
 torchtext==0.18
+transformers

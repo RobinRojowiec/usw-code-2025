@@ -8,9 +8,8 @@ fundus
 scrapy
 feedparser
 scrapy-playwright
-torch~=2.3.0
+torch~=2.5.0
 torchtext==0.18
-transformers[torch]==4.52.1
-tokenizers==0.21.1
-accelerate==1.7.0
+transformers[torch]
+tokenizers
 datasets

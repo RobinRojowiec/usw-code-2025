@@ -174,3 +174,5 @@ cython_debug/
 .pypirc
 
 .vector_cache
+
+model_output
